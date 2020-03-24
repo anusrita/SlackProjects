@@ -1,0 +1,23 @@
+img {height:100%;}
+ul, li {
+margin: 0;
+}
+body{color:#084F58;background-image: linear-gradient(-90deg, #1c92d2, #f2fcfe);}
+section {padding-top:50px;padding-bottom:50px;background-image: linear-gradient(-90deg, #EF3B36, #FFFFFF);}
+h2{text-transform: uppercase;text-shadow: 0 1px 0 white;
+   color: purple;}
+.image {height:40%;width:100%;}
+
+.floatLeft{float:left;}
+.floatRight{float:right;}
+.clear{clear:both;}
+.secondPara{padding-top:20px;}
+.secondPara li{padding-top:10px;}
+.content {
+  width: 800px;
+     margin: 0 auto;
+     text-align: center;
+}
+hr {box-shadow: 1px 1px 3px green, -1px -1px blue;}
+.checked {
+  color: orange;
